@@ -38,38 +38,38 @@ export const Sidebar = () => {
                  </li>
                  <li>
             <CreditCardIcon className="icon" />
-            <span>Orders</span>
+            <span>orders</span>
           </li>
           <li>
             <LocalShippingIcon className="icon" />
-            <span>Delivery</span>
+            <span>delivery</span>
           </li>
-          <p className="title">USEFUL</p>
+          <p className="title">useful</p>
           <li>
             <InsertChartIcon className="icon" />
-            <span>Stats</span>
+            <span>stats</span>
           </li>
           <li>
             <NotificationsNoneIcon className="icon" />
-            <span>Notifications</span>
+            <span>notifications</span>
           </li>
-          <p className="title">SERVICE</p>
+          <p className="title">service</p>
           <li>
             <SettingsSystemDaydreamOutlinedIcon className="icon" />
-            <span>System Health</span>
+            <span>system health</span>
           </li>
           <li>
             <PsychologyOutlinedIcon className="icon" />
-            <span>Logs</span>
+            <span>logs</span>
           </li>
           <li>
             <SettingsApplicationsIcon className="icon" />
-            <span>Settings</span>
+            <span>settings</span>
           </li>
-          <p className="title">USER</p>
+          <p className="title">user</p>
           <li>
             <AccountCircleOutlinedIcon className="icon" />
-            <span>Profile</span>
+            <span>profile</span>
           </li>
           <li>
             <ExitToAppIcon className="icon" />

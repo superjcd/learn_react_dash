@@ -28,7 +28,7 @@
       }
 
       .title {
-        text-transform: capitalize;
+        text-transform: uppercase;
         font-size:16px;
         font-weight: bold;
         color: #999;
@@ -51,6 +51,7 @@
         }
 
         span {
+            text-transform: capitalize;
             font-size: 13px;
             font-weight: 600;
             color: #888;
